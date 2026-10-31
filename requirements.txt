@@ -1,0 +1,10 @@
+keras>=3.0
+tensorflow>=2.16  # or torch / jax: any Keras 3 backend works
+numpy
+pandas
+pyarrow
+pillow
+matplotlib
+scikit-learn
+opencv-python
+jupyter
