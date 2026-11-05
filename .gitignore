@@ -1,5 +1,6 @@
 data/
 *.keras
+!emotion_cnn.keras
 .ipynb_checkpoints/
 __pycache__/
 .venv/
